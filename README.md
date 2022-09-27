@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQL)
 
 
+[![Status ](https://github-readme-stats.vercel.app/api?username=JoyceBrzozowy&theme=dark)](https://github.com/JoyceBrzozowy/)
+
 
 
 
