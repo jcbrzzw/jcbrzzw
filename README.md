@@ -5,9 +5,8 @@
 
 
   - 👩🏼‍💻 Sou estudante do curso Superior de Tecnologia em Banco de Dados.
-  - 💼 Meu principal campo de estudos é **Engenharia de dados**.
-  - 🌱 Estou aprendendo... Python e SQL.
-  - 🔭 Atualmente sou Engenheira de Dados Trainee.
+  - 🌱 Meu principal foco de estudos é **Engenharia de dados**.
+  - 💼 Sou Engenheira de Dados Trainee, atuo com **Python e SQL**.
 
 
 <b> 🚀 **Linguagens e Ferramentas</b>:**
