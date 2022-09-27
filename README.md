@@ -21,7 +21,7 @@
 
    ![Snake animation](https://github.com/joycebrzozowy/joycebrzozowy/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+
 
 
 
