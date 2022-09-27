@@ -14,3 +14,52 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  ### ✨ Olá, eu sou a Joyce!  ✨
+
+
+
+  Sou estudante do curso Superior de Tecnologia em Banco de Dados.
+  
+  Estou em constante aprendizado, com o foco em Engenharia de Dados.
+
+
+
+![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQL)
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+          
+
+
+
+  
