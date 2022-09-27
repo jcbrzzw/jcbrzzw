@@ -4,7 +4,7 @@
 
 
 
-  -     Sou estudante do curso Superior de Tecnologia em Banco de Dados.
+  - 👩🏼‍💻 Sou estudante do curso Superior de Tecnologia em Banco de Dados
   - 🌱 Estou aprendendo... Python e SQL
   - 🔭 Atualmente sou Engenheira de Dados Trainee
 
