@@ -16,7 +16,6 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQL)
 
-<b> :earth_americas: Onde me encontrar:  </b>
 
 [![Linkedin: Joyce Brzozowy](https://img.shields.io/badge/-JoyceBrzozowy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joycebrzozowy/)](https://www.linkedin.com/in/joyce-brzozowy/)
 [![GitHub Joyce Brzozowy]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/joycebrzozowy)
