@@ -17,9 +17,10 @@
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQL)
 
 
-[![Linkedin: Joyce Brzozowy](https://img.shields.io/badge/-JoyceBrzozowy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joycebrzozowy/)](https://www.linkedin.com/in/joyce-brzozowy/)
+ <a href="https://www.linkedin.com/in/joyce-brzozowy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://discord.com/channels/joycealves#8102" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 [![GitHub Joyce Brzozowy]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/joycebrzozowy)
+
 
 [![Status ](https://github-readme-stats.vercel.app/api?username=JoyceBrzozowy&theme=dark)](https://github.com/JoyceBrzozowy/)
 
