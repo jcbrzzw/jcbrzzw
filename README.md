@@ -29,7 +29,7 @@ Sou, estudante do curso Superior de Tecnologia em Banco de Dados, com foco princ
 </p>
 
 
-[![Status ](https://github-readme-stats.vercel.app/api?username=JoyceBrzozowy&theme=dark)](https://github.com/JoyceBrzozowy/)
+![](https://github-readme-stats.vercel.app/api?username=joycebrzozowy&show_icons=true&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
 ![Snake animation](https://github.com/joycebrzozowy/joycebrzozowy/blob/output/github-contribution-grid-snake.svg)
