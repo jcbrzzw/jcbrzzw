@@ -2,7 +2,7 @@
 
 ## Olá, meu nome é Joyce! 
 
-Sou, estudante do curso Superior de Tecnologia em Banco de Dados, com foco principal de estudos em **Engenharia de dados**. Engenheira de Dados Trainee na BlueShift Brasil. 
+Sou, estudante do curso Superior de Tecnologia em Banco de Dados, com foco principal de estudos em **Engenharia de dados**.
 
 
 <b> **Linguagens e Ferramentas</b>:**
