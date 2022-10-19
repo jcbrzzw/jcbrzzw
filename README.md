@@ -1,19 +1,15 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador joycebrzozowy">
-
-## Olá, meu nome é Joyce! 
-
-Sou, estudante do curso Superior de Tecnologia em Banco de Dados, com foco principal de estudos em **Engenharia de dados**.
+<img align="right" height="150" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 
-<b> **Linguagens e Ferramentas</b>:**
 
-![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQL)
+```diff
+Hi, I'm Joyce 👩‍💻❤️.
 
-
-#### Você pode me encontrar:
+@@ I'm a Data Engineer. @@
+I'm Living in São Bernardo do Campo, Brazil 🇧🇷.
+I'm a student of the Higher Database Technology course.
+```
 
 
   <p align="left">
