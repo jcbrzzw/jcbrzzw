@@ -1,57 +1,42 @@
-<img align="right" height="150" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
-<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Joyce+Brzozowy.;I'm+From+Brasil,+São+Bernardo+do+Campo+,SP.;I'm+a+Data+Engineer.;I'm+studying+Database.;Be+Welcome!:%29)](https://git.io/typing-svg)
 
 
-
-```diff
-Hi, I'm Joyce 👩‍💻❤️.
-
-@@ I'm a Data Engineer. @@
-I'm Living in São Bernardo do Campo, Brazil 🇧🇷.
-I'm a student of the Higher Database Technology course.
-```
-
-
-  <p align="left">
-  <a href="https://www.instagram.com/joyce_brzo?r=nametag" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/joyce_brzo?r=nametag"/>
-  <a href="https://www.linkedin.com/in/joyce-brzozowy/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/joyce-brzozowy/"/>
-  </a>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joycebrzozowy&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Joyce Brzozowy github stats" /> 
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joycebrzozowy&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
+ 
   
-  <a href="https://discord.com/channels/joycealves#8102" alt="Discord">
-    <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=https://https://discord.com/channels/joycealves#8102"/>
-  </a>
-</p>
+<div align="center">  
+<a href="www.linkedin.com/in/joycebrzozowy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+  
+  
 
 
-![](https://github-readme-stats.vercel.app/api?username=joycebrzozowy&show_icons=true&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JoyceBrzozowy}/count.svg" /></p> 
+<br></div>
 
-
-![Snake animation](https://github.com/joycebrzozowy/joycebrzozowy/blob/output/github-contribution-grid-snake.svg)
-
-
-
- 
-   
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
  
-
-
-
-
-
-
-
-
-
-
-
  
 
 
 
 
+
+
+
+
+
+
+
+ 
 
 
 
